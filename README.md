@@ -27,7 +27,7 @@ useLibrary 'org.apache.http.legacy'
     }
 ```
 
-#### The code to register tuples in the Database are in [MainActivity](https://github.com/anushanadim/MySQLDatabase/blob/master/app/src/main/java/com/example/anushanadim/mysqldatabase/MainActivity.java) and the code to retrieve from the Database is in RetrieveData activity.
+#### The code to register tuples in the Database are in [MainActivity](https://github.com/anushanadim/MySQLDatabase/blob/master/app/src/main/java/com/example/anushanadim/mysqldatabase/MainActivity.java) and the code to retrieve from the Database is in [RetrieveData](https://github.com/anushanadim/MySQLDatabase/blob/master/app/src/main/java/com/example/anushanadim/mysqldatabase/RetrieveData.java) activity.
 
 
 ## Add the following permissions in the Manifest file.
